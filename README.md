@@ -1,11 +1,8 @@
 ## Hi, I'm Taylor ✨
 
-🧠 Financial Engineering student at JKUAT<br/>
-📊 I visualize data to draw insights<br/>
-✅ I create Dashboards for reporting<br/>
-⚡ I build Predictive Models
-
-
+I'm a Financial Engineering student at Jomo Kenyatta University of Agriculture and Technology (JKUAT). 
+I specialize in machine learning, data science and data analysis, driven by a strong motivation, adaptability, and a solution-oriented mindset.
+I rely on data-driven insights and thorough research to provide reports and suggestions that emphasize customer requirements, financial implications, and the enduring success of clients. Integrity, confidentiality, and teamwork are fundamental values in my work. My aim is to advance towards a better future through ongoing enhancement and creativity
 
 
 ## 🌐 Socials:
@@ -22,3 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=taylorwanyama&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
