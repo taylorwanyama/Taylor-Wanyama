@@ -1,4 +1,4 @@
-## Hi, I'm Taylor ✨
+## Hi👋, I'm Taylor 
 
 I'm a Financial Engineering student at Jomo Kenyatta University of Agriculture and Technology (JKUAT). 
 I specialize in machine learning, data science and data analysis, driven by a strong motivation, adaptability, and a solution-oriented mindset.
@@ -19,4 +19,11 @@ I rely on data-driven insights and thorough research to provide reports and sugg
 [![](https://visitcount.itsvg.in/api?id=taylorwanyama&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔭 I’m currently working on Android Application for Home Services.
+
+🌱 I’m learning about Application of Artificial Intelligence and Automation in Data Science and Data Analysis.
+
+🎖️ All of my projects are available in 
+
+⚡ Fun fact is that I'm proficient in Machine Learning and data science programming languages such as Python and R language.
 
